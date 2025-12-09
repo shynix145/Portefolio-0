@@ -3,19 +3,19 @@ const projets = [
     titre: "Wonderline",
     categorie: "design",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyjt-0NsLMn6FaSOSJzyd8E9748c36hyDJDQ&s",
+      "parkezz.jpeg",
   },
   {
     titre: "Culture & co",
     categorie: "design",
     image:
-    "./assets/img/Capture d’écran 2025-12-09 à 14.30.54.png",
+    "cult.png",
   },
   {
     titre: "Stars wars",
     categorie: "CSS",
     image:
-    "./assets/img/Capture d’écran 2025-12-09 à 14.35.51.png",
+    "stars.png",
   },
 ];
 
@@ -50,3 +50,5 @@ function monPorteFolio(projet) {
 }
 
 monPorteFolio(projets);
+
+

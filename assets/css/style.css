@@ -69,3 +69,29 @@ img{
     border-radius: 20px ;
     border: 2px solid red;
 }
+
+#from-event{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+
+#coordonnée{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+input{
+    height: 50px;
+    width: 170px;
+    border: 2px solid red;
+}
+
+button{
+    border: 2px solid red;
+}
+.om{
+    text-align: center;
+    padding: 50px;
+}
