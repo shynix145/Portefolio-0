@@ -2,20 +2,17 @@ const projets = [
   {
     titre: "Wonderline",
     categorie: "design",
-    image:
-      "parkezz.jpeg",
+    image:"./assets/img/parkezz.jpeg",
   },
   {
     titre: "Culture & co",
     categorie: "design",
-    image:
-    "cult.png",
+    image: "./assets/img/cult.png",
   },
   {
     titre: "Stars wars",
     categorie: "CSS",
-    image:
-    "stars.png",
+    image: "./assets/img/stars.png",
   },
 ];
 
